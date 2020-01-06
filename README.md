@@ -7,6 +7,11 @@ Required packages:
 > beautifulsoup4
 > google
 
+Technology used:
+> Machine Learning
+> Web Scrapping
+> Flask
+
 Searching query: 
 search(query, tld='com', lang='en', num=10, start=0, stop=None, pause=2.0), where,
 query : query string that we want to search for.
